@@ -1,3 +1,3 @@
 # machine-learning-projects
-my machine learning projects while am in training period
-this projects are to convert text data into vectors, segmentitn of mobiles based on price, pridict wheather the student is placed in campus recrutement or not, here i am used text pre-processing techniques and transformation techniques, fish wight predection, also Created Machine Learning Moodels
+These are my machine learning projects while am in training period.
+This projects are 1.to convert text data into vectors, 2.segmentitn of mobiles based on price, 3.pridict wheather the student is placed in campus recrutement or not, here i am used text pre-processing techniques and transformation techniques, 4.fish wight predection, also Created Machine Learning Moodels for given data sets.
